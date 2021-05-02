@@ -4,13 +4,12 @@
 }
 
 .box {
-    background-color: rgb(47, 52, 56);
+    background-color: rgb(197, 206, 214);
 }
 
-p {
-    display: inline;
-}
 
-.box h1 + p {
+
+.box p:active{
     color:red;
-}
+}   
+
