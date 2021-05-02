@@ -13,3 +13,7 @@
     color:red;
 }   
 
+.mmm::before{
+    content: '+';
+}
+
